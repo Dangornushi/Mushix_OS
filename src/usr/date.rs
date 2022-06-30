@@ -1,0 +1,20 @@
+use crate::{api, usr};
+use time::validate_format_string;
+
+pub fn main(args: &[&str]) -> usr::shell::ExitCode {
+    let format = if args.len() > 1 {
+        args[1]
+    } else {
+        "Now: %F %H:%M:%S"
+    };
+    match validate_format_string(format) {
+        Ok(()) => {
+            println!("{}", api::time::now().format(format));
+            usr::shell::ExitCode::CommandSuccessful
+        }
+        Err(e) => {
+            error!("{}", e);
+            usr::shell::ExitCode::CommandError
+        }
+    }
+}

@@ -1,0 +1,1 @@
+{"rustc":13145962794195617807,"features":"","target":0,"profile":0,"path":0,"deps":[[8427705233296525817,"build_script_build",false,8298634354700064736],[12323143655618701469,"build_script_build",false,9328005491924323156]],"local":[{"RerunIfEnvChanged":{"var":"COMPILING_UNDER_CARGO_WEB","val":null}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

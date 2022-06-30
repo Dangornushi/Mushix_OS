@@ -1,0 +1,18 @@
+/Users/dangomushi/Mushix/target/x86_64-mushix/debug/deps/typenum-1e117b1b0f5db449.rmeta: /Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs /Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs /Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs /Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs /Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs /Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs /Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs /Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs /Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs /Users/dangomushi/Mushix/target/x86_64-mushix/debug/build/typenum-fba6666a350c7658/out/op.rs /Users/dangomushi/Mushix/target/x86_64-mushix/debug/build/typenum-fba6666a350c7658/out/consts.rs
+
+/Users/dangomushi/Mushix/target/x86_64-mushix/debug/deps/typenum-1e117b1b0f5db449.d: /Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs /Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs /Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs /Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs /Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs /Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs /Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs /Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs /Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs /Users/dangomushi/Mushix/target/x86_64-mushix/debug/build/typenum-fba6666a350c7658/out/op.rs /Users/dangomushi/Mushix/target/x86_64-mushix/debug/build/typenum-fba6666a350c7658/out/consts.rs
+
+/Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs:
+/Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs:
+/Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs:
+/Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs:
+/Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs:
+/Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs:
+/Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs:
+/Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs:
+/Users/dangomushi/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs:
+/Users/dangomushi/Mushix/target/x86_64-mushix/debug/build/typenum-fba6666a350c7658/out/op.rs:
+/Users/dangomushi/Mushix/target/x86_64-mushix/debug/build/typenum-fba6666a350c7658/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/Users/dangomushi/Mushix/target/x86_64-mushix/debug/build/typenum-fba6666a350c7658/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/Users/dangomushi/Mushix/target/x86_64-mushix/debug/build/typenum-fba6666a350c7658/out/op.rs

@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/dangomushi/Mushix/target/x86_64-mushix/release/build/typenum-c4f48fd3f2a251c9/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/dangomushi/Mushix/target/x86_64-mushix/release/build/typenum-c4f48fd3f2a251c9/out/op.rs

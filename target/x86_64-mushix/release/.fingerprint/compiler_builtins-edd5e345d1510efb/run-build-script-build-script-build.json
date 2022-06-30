@@ -1,0 +1,1 @@
+{"rustc":13145962794195617807,"features":"","target":0,"profile":0,"path":0,"deps":[[8427705233296525817,"build_script_build",false,13829718946921597258]],"local":[{"RerunIfChanged":{"output":"x86_64-mushix/release/build/compiler_builtins-edd5e345d1510efb/output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

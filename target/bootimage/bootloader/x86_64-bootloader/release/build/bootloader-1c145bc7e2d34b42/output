@@ -1,0 +1,7 @@
+cargo:rerun-if-changed=/Users/dangomushi/Mushix/Cargo.toml
+cargo:rustc-link-search=native=/Users/dangomushi/Mushix/target/bootimage/bootloader/x86_64-bootloader/release/build/bootloader-1c145bc7e2d34b42/out
+cargo:rustc-link-lib=static=kernel_bin-mushix
+cargo:rerun-if-env-changed=KERNEL
+cargo:rerun-if-env-changed=KERNEL_MANIFEST
+cargo:rerun-if-changed=/Users/dangomushi/Mushix/target/x86_64-mushix/release/mushix
+cargo:rerun-if-changed=build.rs
